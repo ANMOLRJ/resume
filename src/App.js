@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Bio from './Component/Bio';
 import Experience from './Component/Experience';
